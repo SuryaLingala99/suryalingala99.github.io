@@ -5,7 +5,7 @@ title: Shiva Surya Lingala | Data Scientist
 
 # Shiva Surya Lingala
 **Data Scientist – Product & Analytics**
-📍 Columbus, OH | 📧 suryalingala99@gmail.com | [LinkedIn](www.linkedin.com/in/suryalingala)
+ Columbus, OH |  suryalingala99@gmail.com | [LinkedIn](https://www.linkedin.com/in/suryalingala/)
 
 ---
 
@@ -56,7 +56,7 @@ I don't just build models; I build the logic that helps businesses make better d
 
 ---
 
-## 🛠 Skills
+##  Skills
 * **Product:** A/B Testing, Metric Definition, Churn Prediction.
 * **Code:** Python (Pandas, Scikit-Learn), SQL, R.
 * **AI:** RAG Systems, LLM Agents, NLP.
